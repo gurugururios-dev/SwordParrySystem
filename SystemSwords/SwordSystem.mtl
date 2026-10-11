@@ -1,0 +1,206 @@
+newmtl Handle1Mtl
+Material Color
+Ka 0.144972 0.0370285 0.000638183
+Kd 0.144972 0.0370285 0.000638183
+Ks 0.00909629 0.00232336 4.00428e-05 
+
+d 1
+
+Ns 40
+
+map_Ka Handle1_diff.png
+map_Kd Handle1_diff.png
+map_d Handle1_diff.png
+
+map_Bump Handle1_nmap.png
+
+map_Ns Handle1_spec.png
+
+newmtl Handle2Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.249077 0.245727 0.25585 
+
+d 1
+
+Ns 255
+
+map_Ka Handle2_diff.png
+map_Kd Handle2_diff.png
+map_d Handle2_diff.png
+
+newmtl Parrybox1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0234425 0.0231273 0.02408 
+
+d 1
+
+Ns 0
+
+map_Ka Parrybox1_diff.png
+map_Kd Parrybox1_diff.png
+map_d Parrybox1_diff.png
+
+map_Bump Parrybox1_nmap.png
+
+newmtl Handle4Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.249077 0.245727 0.25585 
+
+d 1
+
+Ns 255
+
+map_Ka Handle4_diff.png
+map_Kd Handle4_diff.png
+map_d Handle4_diff.png
+
+map_Bump Handle4_nmap.png
+
+map_Ns Handle4_spec.png
+
+newmtl Handle3Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.249077 0.245727 0.25585 
+
+d 1
+
+Ns 255
+
+map_Ka Handle3_diff.png
+map_Kd Handle3_diff.png
+map_d Handle3_diff.png
+
+newmtl BlueZombie3Mtl
+Material Color
+Ka 0 0 1
+Kd 0 0 1
+Ks 0 0 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka BlueZombie1_diff.png
+map_Kd BlueZombie1_diff.png
+map_d BlueZombie1_diff.png
+
+newmtl Handle5Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0234425 0.0231273 0.02408 
+
+d 1
+
+Ns 0
+
+map_Ka Handle5_diff.png
+map_Kd Handle5_diff.png
+map_d Handle5_diff.png
+
+newmtl BlueZombie1Mtl
+Material Color
+Ka 0.144972 0.0370285 0.000638183
+Kd 0.144972 0.0370285 0.000638183
+Ks 0.00909629 0.00232336 4.00428e-05 
+
+d 1
+
+Ns 0
+
+map_Ka BlueZombie1_diff.png
+map_Kd BlueZombie1_diff.png
+map_d BlueZombie1_diff.png
+
+newmtl HunterZombie1Mtl
+Material Color
+Ka 0.409826 0 0.409826
+Kd 0.409826 0 0.409826
+Ks 0.080358 0 0.080358 
+
+d 1
+
+Ns 255
+
+map_Bump HunterZombie1_nmap.png
+
+map_Ns HunterZombie1_spec.png
+
+newmtl HunterZombie6Mtl
+Material Color
+Ka 0.409826 0 0.409826
+Kd 0.409826 0 0.409826
+Ks 0.080358 0 0.080358 
+
+d 1
+
+Ns 255
+
+map_Ka HunterZombie6_diff.png
+map_Kd HunterZombie6_diff.png
+map_d HunterZombie6_diff.png
+
+newmtl IronZombie1Mtl
+Material Color
+Ka 0.598942 0.605484 0.645555
+Kd 0.598942 0.605484 0.645555
+Ks 0.11744 0.118722 0.126579 
+
+d 1
+
+Ns 255
+
+map_Bump HunterZombie1_nmap.png
+
+map_Ns HunterZombie1_spec.png
+
+newmtl IronZombie6Mtl
+Material Color
+Ka 0.804559 0.804559 0.84337
+Kd 0.804559 0.804559 0.84337
+Ks 0.157757 0.157757 0.165367 
+
+d 1
+
+Ns 255
+
+map_Ka IronZombie6_diff.png
+map_Kd IronZombie6_diff.png
+map_d IronZombie6_diff.png
+
+newmtl Zombie1Mtl
+Material Color
+Ka 0.144972 0.0370285 0.000638183
+Kd 0.144972 0.0370285 0.000638183
+Ks 0.00909629 0.00232336 4.00428e-05 
+
+d 1
+
+Ns 0
+
+map_Ka Zombie1_diff.png
+map_Kd Zombie1_diff.png
+map_d Zombie1_diff.png
+
+newmtl Zombie3Mtl
+Material Color
+Ka 0.0677246 0.315763 0.0677246
+Kd 0.0677246 0.315763 0.0677246
+Ks 0.00424939 0.0198126 0.00424939 
+
+d 1
+
+Ns 0
+
+map_Ka Zombie1_diff.png
+map_Kd Zombie1_diff.png
+map_d Zombie1_diff.png
+
